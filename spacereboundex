@@ -1,11 +1,9 @@
 {
-"SpacemanEnb": false,
-"SpacemanLocale": ["Russian"],
-"SpacemanTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+"SpacemanEnb": true,
+"SpacemanLocale": ["Indonesian"],
+"SpacemanTime": ["Jakarta", "Makassar", "Jayapura"],
 "SpacemanLinks":
 [
-  { "Lang":"Russian", "Link": [""]}
+  { "Lang":"Indonesian", "Link": ["https://1wvhvo.com/casino/list/4?p=vq1h"]}
 ]
 }
